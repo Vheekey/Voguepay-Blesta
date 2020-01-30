@@ -1,7 +1,10 @@
 # Voguepay-Blesta
-Voguepay payment gateway for blesta cms
+VoguePay payment gateway integration for Blesta CMS. 
 
-How to use:
+VoguePay payment integration for Blesta is free.
+
+# Documentation
+To integrate, follow these steps:
 - Clone or Download files
 - Go to Blesta/components/gateways/nonmerchant/
 - Then extract the zip folder there 
