@@ -1,3 +1,7 @@
+# About Voguepay
+VoguePay is a secure online payment processor that provides a secure way to send and receive payments globally.
+To create an account: https://www.voguepay.com
+
 # Voguepay-Blesta
 VoguePay payment gateway integration for Blesta CMS. 
 
