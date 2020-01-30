@@ -3,7 +3,7 @@ Voguepay payment gateway for blesta cms
 
 How to use:
 - Clone or Download files
-- Go to components/gateways/nonmerchant/
+- Go to Blesta/components/gateways/nonmerchant/
 - Then extract the zip folder there 
 - Login as admin on blesta
 - Go to settings->Payment Gateway->Available
