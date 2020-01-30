@@ -9,4 +9,4 @@ How to use:
 - Go to settings->Payment Gateway->Available
 - Select voguepay and install
 - Set up your Voguepay Merchant ID and API token
-P.S: Use "demo" as Merchant ID for test transactions
+- P.S: Use "demo" as Merchant ID for test transactions
