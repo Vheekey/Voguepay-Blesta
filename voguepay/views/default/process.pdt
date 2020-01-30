@@ -1,0 +1,10 @@
+
+	<?php
+	// Disable CSRF for this form
+    $this->Form->setCsrfOptions(['set_on_create' => true]);
+    $this->Form->create($post_to);
+
+    $this->Form->fieldSubmit('submit', $this->_('Voguepay.buildprocess.submit', true));
+
+    $this->Form->end();
+	?>

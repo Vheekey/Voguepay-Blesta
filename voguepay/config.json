@@ -1,0 +1,15 @@
+{
+	"version": "1.0.0",
+	"name": "Voguepay",
+	"description": "Supports all Voguepay's Payment Processing options",
+	"authors": [
+		{
+			"name": "Vheekey",
+			"url": "http://www.github.com/Vheekey"
+		}
+		
+	],
+	"currencies": ["NGN", "USD", "EUR", "GBP"],
+	"signup_url": "https://voguepay.com",
+	"logo": "views/images/logo.png."
+}

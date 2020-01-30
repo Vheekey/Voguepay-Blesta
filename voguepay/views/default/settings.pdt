@@ -1,0 +1,29 @@
+
+	<ul>
+	<li>
+			<?php
+            $this->Form->label($this->_('Voguepay.account_id', true), 'account_id');
+            $this->Form->fieldText('account_id', $this->Html->ifSet($meta['account_id']), ['id'=>'account_id']);
+            ?>
+		</li>
+		<li>
+			<?php
+			// $this->Form->label($this->_('Voguepay.pay_type', true));
+
+			// $this->Form->fieldRadio('pay_type', 'Demp', ($this->Html->ifSet($meta['demo'], 'true') == 'true'), ['id'=>'demo']);
+			// $this->Form->label($this->_('Voguepay.demo', true), 'demo', ['class'=>'inline']);
+
+			// $this->Form->fieldRadio('pay_type', 'Live', ($this->Html->ifSet($meta['demo'], 'false') == 'false'), ['id'=>'live']);			
+			// $this->Form->label($this->_('Voguepay.live', true), 'live', ['class'=>'inline']);
+
+            
+            ?>
+		</li>
+		<li>
+			<?php
+            $this->Form->label($this->_('Voguepay.api_token', true), 'api_token');
+            $this->Form->fieldText('api_token', $this->Html->ifSet($meta['api_token']), ['id'=>'api_token']);
+            ?>
+		</li>
+		
+	</ul>

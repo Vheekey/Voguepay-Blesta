@@ -1,0 +1,9 @@
+{
+    "name": "blesta/voguepay",
+    "description": "Voguepay",
+    "license": "proprietary",
+    "type": "blesta-gateway-nonmerchant",
+    "require": {
+        "blesta/composer-installer": "~1.0"
+    }
+}
